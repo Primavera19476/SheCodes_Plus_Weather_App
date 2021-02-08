@@ -1,0 +1,51 @@
+body {
+  padding: 50px 0px 0px 0px;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+img {
+  display: inline;
+  max-width: 50%;
+}
+
+form {
+  display: inline;
+  Margin: 0 auto;
+  text-align: center;
+}
+
+form button {
+  display: inline;
+  margin: 0 auto;
+  text-align: center;
+}
+
+form .searchBar {
+width: 40%;
+}
+
+.temperateMain{
+  font-size: 48px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.list-group li {
+  line-height: 50px;
+}
+
+.cardWeatherTotay, .cardWeatherForecast {
+  background-color: rgba(0,0,0,0.2)!important;
+}
+
+.temperature {
+  display: inline;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.units {
+  display: inline;
+}
